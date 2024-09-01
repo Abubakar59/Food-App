@@ -1,0 +1,27 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.nav{   align-items: center;
+  justify-content: space-evenly;
+  display: flex;
+  height: 45px;
+  width: 50%;
+  background-color: #FF084C;
+  margin-left: 334px;
+
+}
+.image{
+  background-image: url(./images/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2lzMTYwNjItaW1hZ2Uta3d2eWZrd3IuanBn.webp);
+  width: 50%;
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-left: 334px;
+}
+
+
