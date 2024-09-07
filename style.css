@@ -9,9 +9,9 @@ body{
   justify-content: space-evenly;
   display: flex;
   height: 45px;
-  width: 50%;
+  width: 100%;
   background-color: #FF084C;
-  margin-left: 334px;
+
 
 }
 .image{
